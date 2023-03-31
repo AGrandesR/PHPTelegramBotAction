@@ -42,6 +42,11 @@ Now you can use the new action in your routes file.
     }
 }
 ```
+Finally, be sure that you add the API key of telegram into the .env file:
+``` .env
+TELEGRAM_TOKEN=%YOUR_API_TOKEN%
+```
+
 And that is all, you can create a endpoint to send a email very easy.
 
 ## Content parameters
