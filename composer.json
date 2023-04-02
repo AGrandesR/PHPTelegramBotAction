@@ -5,7 +5,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Agrandesr\\CustomActions\\TelegramBotAction\\": "src/"
+            "Agrandesr\\CustomActions\\": "src/"
         }
     },
     "authors": [
